@@ -1,0 +1,14 @@
+/home/josewsl/csharp/poo/bin/Debug/net8.0/poo
+/home/josewsl/csharp/poo/bin/Debug/net8.0/poo.deps.json
+/home/josewsl/csharp/poo/bin/Debug/net8.0/poo.runtimeconfig.json
+/home/josewsl/csharp/poo/bin/Debug/net8.0/poo.dll
+/home/josewsl/csharp/poo/bin/Debug/net8.0/poo.pdb
+/home/josewsl/csharp/poo/obj/Debug/net8.0/poo.GeneratedMSBuildEditorConfig.editorconfig
+/home/josewsl/csharp/poo/obj/Debug/net8.0/poo.AssemblyInfoInputs.cache
+/home/josewsl/csharp/poo/obj/Debug/net8.0/poo.AssemblyInfo.cs
+/home/josewsl/csharp/poo/obj/Debug/net8.0/poo.csproj.CoreCompileInputs.cache
+/home/josewsl/csharp/poo/obj/Debug/net8.0/poo.dll
+/home/josewsl/csharp/poo/obj/Debug/net8.0/refint/poo.dll
+/home/josewsl/csharp/poo/obj/Debug/net8.0/poo.pdb
+/home/josewsl/csharp/poo/obj/Debug/net8.0/poo.genruntimeconfig.cache
+/home/josewsl/csharp/poo/obj/Debug/net8.0/ref/poo.dll
